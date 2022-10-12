@@ -1,0 +1,7 @@
+       % Of Etf   Shares
+Symbol                  
+TSLA     11.46%   150797
+TRMB      8.50%  1461824
+KTOS      7.90%  6618836
+IRDM      6.09%  1575945
+PATH      5.64%  3835055

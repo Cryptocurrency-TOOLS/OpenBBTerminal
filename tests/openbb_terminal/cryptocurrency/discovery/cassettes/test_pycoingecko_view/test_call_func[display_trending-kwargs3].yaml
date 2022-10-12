@@ -1,0 +1,87 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+    method: GET
+    uri: https://api.coingecko.com/api/v3/search/trending
+  response:
+    body:
+      string: !!binary |
+        H4sIAPG1p2IAA5zWW2+bMBgG4Pv+iorrhPh8yM00tdmmaW0qda22TlVEiUVYIERA1m5V/vsMdggs
+        MKm+ygHz+rMffYbXMy/M4k3hTc9/vHpxqVJvqj+X3tR7CYPleKPK5yxfe6N62KK6AKmgfORtglTp
+        Ud8u3l+eXzejit/pU5bY//XvNMjXqlyEwXaRB5u1N0UYjbxytUuf9KBVWW6L6WQSFIUqC7+aIlLh
+        OtPf0kld1yROg0gVk3rSSX3fpCrMv7n++A4yhCAjXMhq5jRIEofM+r6BzCTII+WQWd83VGeyi053
+        d5vHoVo8laE3BT4AAAoMEWEYQCAZ41RvWhFmuS4G7Pejf6RClRTxrhgvVZQrNS6ztdq0xTBiuAG7
+        MIP7zC5mX/rIoMQuZNWsVkwHL5IsyvztJtK7ASSVglPspFbHGrTh2LfD1bHG7T/VGrvDflu+ZsNb
+        iNDHRAAKsCAEQSwZVGNAG0R4irgrlss2GqJYgEbt7vbysk1lf59YMeZCVc9lre50tP9zW62cQoEw
+        5tDJyWQaqP7MtyOZTKM0UKcRspvZAiE+BkQ3IdADMZGUdjzQqUe2LeM0LtKuCSKkMZkfRzQu85ve
+        Qw9yNxY9nWWZ3+jFKrNagBjibmeeiTQqvZEuKFWkQemv0pi0NrTlgnwMCeeSCEmRPvGg6MDgUxj1
+        K82KjgoB6Hi+zezlhmR2fzW/7T3XMHRSqaazKnUt9pygWFIhEXdzqUONy0Cog0wdamSGKjU2hz1t
+        wVCfQCklF0BQzKk+ADsw5BQmzX6pP912YQw2MFf68kMb5mp+P3vogxHC6YFTT2dhPn9//vDM+WHB
+        hDMBHR84JtbQDMa6tE0Va3CGqzU8h51t8UifCck0DcQIA908Woc3OrSnbcqVytWue55xeeyb4/Vj
+        63z91HucOelweWgaO5NZLpVUPyqFAG44OtV2zWCqg41OtW0zXKvtnOO2dd/hKNYHW/X2BjFg2qqx
+        Yfv94+jMUy/hKtAF1K/ej2f7vwAAAP//AwARFzrRigsAAA==
+    headers:
+      Accept-CH:
+      - Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
+      Access-Control-Allow-Headers:
+      - Origin, X-Requested-With, Content-Type, Accept, Authorization
+      Access-Control-Allow-Methods:
+      - POST, PUT, DELETE, GET, OPTIONS
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - link, per-page, total
+      Access-Control-Request-Method:
+      - '*'
+      Age:
+      - '184'
+      Alternate-Protocol:
+      - 443:npn-spdy/2
+      CF-Cache-Status:
+      - HIT
+      CF-Ray:
+      - 71ae2d417eadad86-ATL
+      Cache-Control:
+      - public, max-age=300
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 13 Jun 2022 22:14:01 GMT
+      ETag:
+      - W/"fc93f20daf9ac2e1218390a5c1ba699e"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Mon, 13 Jun 2022 22:19:01 GMT
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - datadome=ibcZKCz7FWk9RDK~XErzgLrVmGd~7076nESn0ewVmZ9wqJzpHXMi613Vnjjx.4.w5H9uJ3FSIHP~HVNuP8FlcnytMx5nqKyjwIUNMwAxadU4IM0AGa1kSdQg9wi_3Wm;
+        Max-Age=31536000; Domain=.coingecko.com; Path=/; Secure; SameSite=Lax
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding, Origin
+      X-DataDome:
+      - protected
+      X-Request-Id:
+      - a3713ba5-559a-4de3-9474-5a32d2ece04f
+      X-Runtime:
+      - '0.009930'
+    status:
+      code: 200
+      message: OK
+version: 1

@@ -1,0 +1,3 @@
+
+Perform an OLS regression before estimating the Breusch-Godfrey statistic.
+

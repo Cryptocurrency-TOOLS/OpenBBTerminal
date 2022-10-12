@@ -1,0 +1,2 @@
+      Earnings Date Earnings Average Earnings Low Earnings High Revenue Average Revenue Low Revenue High
+Value    07/21/2022             None         None          None         6.697 B     6.249 B      7.015 B
